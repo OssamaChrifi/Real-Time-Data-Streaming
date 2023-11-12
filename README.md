@@ -78,7 +78,7 @@ You can check the console to see if data it's correctly send to kafka in this ur
     ```
     ```sql
     SELECT * FROM spark_streams.created_users;
-    ... 
+    ``` 
 
 
 
